@@ -1,9 +1,9 @@
 # Exploring React Front End 🚀
+[Verify](https://coursera.org/share/b5a6aaf509f3bd4e117990c5d0915711)
+![Certificate](React Front End.png)
 
 ## About
 Completed the React Front End course from Coursera, offered by Meta. 📚
-[Verify](https://coursera.org/share/b5a6aaf509f3bd4e117990c5d0915711)
-![Certificate](React Front End.png)
 
 
 ## Key Learnings
